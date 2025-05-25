@@ -1,6 +1,16 @@
 {
   "maps": [
-    { "name": "Map_KTM_PKR" },
-    { "name": "Map_KTM_BRT" }
+    {
+      "name": "Map_KTM_PKR",
+      "title": "Kathmandu to Pokhara",
+      "updateToken": "v1.2.3",
+      "bundleURL": "https://yourcdn.com/maps/Map_KTM_PKR.bundle"
+    },
+    {
+      "name": "Map_KTM_BRT",
+      "title": "Kathmandu to Bharatpur",
+      "updateToken": "v1.0.1",
+      "bundleURL": "https://yourcdn.com/maps/Map_KTM_BRT.bundle"
+    }
   ]
 }
