@@ -6,17 +6,5 @@
       "updateToken": "v1.2.3",
       "bundleURL": "https://yourcdn.com/maps/Map_KTM_PKR.bundle"
     },
-    {
-      "name": "Map_KTM_BHR",
-      "title": "Kathmandu-Bharatpur",
-      "updateToken": "v1.2.3",
-      "bundleURL": "https://yourcdn.com/maps/Map_KTM_PKR.bundle"
-    },    
-    {
-      "name": "Map_KTM_BRT",
-      "title": "Kathmandu-Bharatpur",
-      "updateToken": "v1.0.1",
-      "bundleURL": "https://yourcdn.com/maps/Map_KTM_BRT.bundle"
-    }
   ]
 }
