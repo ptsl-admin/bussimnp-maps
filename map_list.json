@@ -9,6 +9,11 @@
       "name": "Map_MGL_PKR",
       "title": "Muglin to Pokhara",
       "updateToken": "v1"
-    }    
+    },
+    {
+      "name": "Map_PKR_KSM",
+      "title": "Pokhara to Kushma",
+      "updateToken": "v1"
+    }        
   ]
 }
