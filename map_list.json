@@ -4,6 +4,11 @@
       "name": "Map_KTM_MGL",
       "title": "Kathmandu to Muglin",
       "updateToken": "v1"
-    }
+    },
+    {
+      "name": "Map_MGL_PKR",
+      "title": "Muglin to Muglin",
+      "updateToken": "v1"
+    }    
   ]
 }
