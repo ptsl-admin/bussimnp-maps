@@ -3,7 +3,6 @@
     {
       "name": "Map_KTM_MGL",
       "title": "Kathmandu to Muglin",
-      "bundleURL": "https://raw.githubusercontent.com/ptsl-admin/bussimnp-maps/refs/heads/master/tree/main/maps/KTM_MGL/testserver_scenes_map_ktm_mgl_cb51abf569a35dfc33c9e96c5edd49ee.bundle",
       "updateToken": "v1"
     }
   ]
