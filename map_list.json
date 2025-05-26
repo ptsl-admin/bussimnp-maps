@@ -1,10 +1,10 @@
 {
   "maps": [
     {
-      "name": "Map_KTM_PKR",
-      "title": "Kathmandu-Pokhara",
-      "updateToken": "v1.2.3",
-      "bundleURL": "https://yourcdn.com/maps/Map_KTM_PKR.bundle"
+      "name": "KTM_MGL",
+      "title": "Kathmandu to Muglin",
+      "url": "https://raw.githubusercontent.com/ptsl-admin/bussimnp-maps/main/maps/KTM_MGL/",
+      "version": "1"
     }
   ]
 }
