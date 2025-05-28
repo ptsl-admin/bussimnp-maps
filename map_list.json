@@ -1,19 +1,9 @@
 {
   "maps": [
     {
-      "name": "Map_KTM_MGL",
-      "title": "Kathmandu to Muglin",
+      "name": "Map_BKT_DKL",
+      "title": "Bhaktapur to Dhulikhel",
       "updateToken": "v1"
-    },
-    {
-      "name": "Map_MGL_PKR",
-      "title": "Muglin to Pokhara",
-      "updateToken": "v1"
-    },
-    {
-      "name": "Map_PKR_KSM",
-      "title": "Pokhara to Kushma",
-      "updateToken": "v1"
-    }        
+    }     
   ]
 }
